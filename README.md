@@ -9,3 +9,6 @@
 
 # Description
 
+Competition Site: https://www.kaggle.com/c/stanford-covid-vaccine
+
+Paper Preprint: https://arxiv.org/abs/2110.07531
